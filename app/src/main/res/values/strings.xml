@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">占い情報</string>
+    <string name="tv_winfo_title">占い詳細</string>
+    <string name="button">button</string>
+</resources>
